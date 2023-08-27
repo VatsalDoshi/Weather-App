@@ -8,5 +8,9 @@ Building a weather app was a great way to apply my web development skills to a r
 ![image](https://github.com/VatsalDoshi/Weather-App/assets/114709734/26b3ea41-de5b-4ff9-af82-531ece512715)
 
 
+![image](https://github.com/VatsalDoshi/Weather-App/assets/114709734/4e0154fc-dd93-4ff7-b27a-1c274ce234f2)
+
+
+
 
 
